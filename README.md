@@ -11,10 +11,5 @@ I made this project just for fun, it allows you to create nice and simple Bots t
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/GX-ANISAN)  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=https://github.com/GX-ANISAN)](https://github.com/ryo-ma/github-profile-trophy)
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=https://github.com/GX-ANISAN)  
-
-![GitHub metrics](https://metrics.lecoq.io/https://github.com/GX-ANISAN)  
 
 
